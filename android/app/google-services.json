@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "284409811482",
+    "firebase_url": "https://espeats-default-rtdb.firebaseio.com",
+    "project_id": "espeats",
+    "storage_bucket": "espeats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284409811482:android:a4db3eecd4377e9379f7a3",
+        "android_client_info": {
+          "package_name": "com.sfsl.espeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284409811482-ppvffuj2hu9p7ckfv8d4p6h34kbps5bd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sfsl.espeats",
+            "certificate_hash": "bb2b6bb2737dbba78c7d45dc022f91c1e35f7208"
+          }
+        },
+        {
+          "client_id": "284409811482-6nkajvjut69pechlcqqkk7jk3kaf397i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgWsjoc4EhyiQYnGNkeWufICU1sL8ZLuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "284409811482-6nkajvjut69pechlcqqkk7jk3kaf397i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "284409811482-itbd3k78nskguh3at53sh7j8qds93j9u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sfsl.espeats"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
